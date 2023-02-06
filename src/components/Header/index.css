@@ -1,0 +1,31 @@
+/* Write your CSS code here */
+.NavBar {
+  background-color: #ffffff;
+  height: 120px;
+  display: flex;
+  justify-content: space-around;
+}
+
+.wave-logo {
+  height: 20px;
+  width: 20px;
+  padding-top: 14px;
+}
+
+.Title {
+  color: #12022f;
+  font-size: 20px;
+  font-family: 'Roboto';
+  font-weight: bold;
+  padding-left: 20px;
+}
+
+.lists-container {
+  list-style-type: none;
+  display: flex;
+  justify-content: space-between;
+}
+
+.wave-container {
+  display: flex;
+}
